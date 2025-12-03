@@ -36,4 +36,4 @@ var todoList = {
     this.displayTodos();
   }
 
-};
+}; // test
